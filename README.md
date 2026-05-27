@@ -9,9 +9,9 @@ Previsão de estabilidade operacional em redes elétricas inteligentes utilizand
 
 ## Integrantes
 
-- Estela Argolo
-- William Henrique
-- Rodrigo Madureira
+- Estela Argolo - RA 082210043
+- William Henrique - RA 082210006
+- Rodrigo Madureira - RA 082210028
 
 ## Problema de negócio
 
