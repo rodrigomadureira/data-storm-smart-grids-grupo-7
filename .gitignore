@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados gerados
+/data/raw/*
+/data/processed/*
+!/data/raw/.gitkeep
+!/data/processed/.gitkeep
+
+# Saídas geradas
+/outputs/figures/*
+/outputs/models/*
+!/outputs/figures/.gitkeep
+!/outputs/models/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
